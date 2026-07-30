@@ -172,7 +172,7 @@ java IRCTCMain
 
 # 👨‍💻 Author
 
-## Garvit Malik
+## Garvit Malik 
 
 <p align="left">
   <a href="https://github.com/garvitmalik-123">
